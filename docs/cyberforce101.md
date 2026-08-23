@@ -93,7 +93,7 @@ Some machines are critical (can't break them), others are "vulnerable" on purpos
 
 **Windows systems** — One of last year's biggest gaps. Windows has 3 different ways to change every setting, they override each other randomly, and monitoring is complex.
 
-**Time commitment** — Normal season is estimated to be ~2 hrs/week. The 3-week prep crunch is 3–5 hrs/week with your team. 
+**Time commitment** — Normal season is estimated to be ~3 hrs/week. The 3-week prep crunch is 3–5 hrs/week with your team. 
 
 **Open PLC** — Controls the actual energy equipment. If you break it, your score tanks. Takes practice to get right.
 
@@ -105,7 +105,7 @@ Some machines are critical (can't break them), others are "vulnerable" on purpos
 
 **Team skill mix** — You don't need to be an expert at everything. Teams deliberately balance: someone good at Linux, someone good at Windows, someone good at CTF. You learn from each other.
 
-**Veterans help** — Michael, Sam, Tegan have done this. They mentor, answer questions, share lessons.
+**Veterans help** — They mentor, answer questions, share lessons.
 
 **It's fun** — Weird thing to say about a stressful competition, but people genuinely enjoy it. Adrenaline, teamwork, learning fast.
 
@@ -124,7 +124,7 @@ Some machines are critical (can't break them), others are "vulnerable" on purpos
 You don't need to know everything. Teams are balanced. If you're weak in an area, your teammates cover + teach you.
 
 **Time:**
-- Sept–Oct: ~2 hours/week for meetings + workshops
+- Sept–Oct: ~3 hours/week for meetings + workshops
 - Final 2-3 weeks: 3–5 hours/week with your team
 - Competition day: Full day (usually Saturday, all day)
 
@@ -176,9 +176,6 @@ That's what veterans + mentors are for. We can help identify gaps and fill them.
 **Can I miss preparation events?**
 Ideally no. But life happens. Just tell your team captain ASAP. The big issue is if whole teams go dark.
 
-**What happens if we do really badly?**
-You learn a ton. Seriously. Some of the best learning comes from failure. Past teams have scored low and still come back stronger next year.
-
 **Is this just for people who want to work in cybersecurity?**
 Not necessarily. Many people do it because it's fun, challenging, and looks good. Some go into security, others go into different fields. The skills help regardless.
 
@@ -208,11 +205,6 @@ Not necessarily. Many people do it because it's fun, challenging, and looks good
 - Check [Team Structure & Roles](../team-formation/role-descriptions.md) — what team roles do
 - Explore [CyberForce 2025 Google Drive](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto) - 2025's CF team resources 
 - Read [CyberForce 101 Library](https://cyberforce.energy.gov/cyberforce-101-library/) — official DoE resource
-
-**Want to get involved?**
-- Announce your interest on the CyberForce 2026 Interest Confirmation
-- Attend the info session (early July)
-- Ask questions in the #cyberforce discord channel
 
 ---
 
