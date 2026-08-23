@@ -1,13 +1,11 @@
 ================================================================================
 # CyberForce 2026 Competition Timeline
 
-**Last updated:** July 2026  
+**Last updated:** August 2026  
 **Owner:** AJ  
 **For:** Everyone (reference guide for planning)
 
 ---
-
-## 🚨 IMPORTANT: These Are Estimates
 
 [CyberForce.energy.gov](https://cyberforce.energy.gov/) is the official source. **We're estimating based on past years.** Once CyberForce announces official dates (usually mid-July), those override everything here.
 
@@ -17,7 +15,7 @@
 
 ---
 
-### >>> __**JULY 2026 (Registration & Team Formation)**__ <<<
+### **JULY 2026 (Registration & Team Formation)**
 
 | Date | What | Details |
 |------|------|---------|
@@ -26,23 +24,23 @@
 
 **What you should do:**
 - Attend July 15 webinar (optional but recommended)
-- FOR TEAM CAPTAINS -> Make sure registration is submitted before deadline (with AJ's help)
+- FOR TEAM CAPTAINS -> Make sure registration is submitted right when it opens (with AJ's help)
 - Start exploring technical prep materials
 
 **Critical:** Make sure to keep an eye on your inboxes in July, this is when registeration opens and teams get booted even if they register late within the window
 
 ---
 
-### **AUGUST 2026 (Quiet Prep)**
+### >>> __**AUGUST 2026 (Quiet Prep)**__ <<<
 
 | Date | What | Details |
 |------|------|---------|
 | All month | Studying | Optional: learn Linux, Windows, Open PLC on your own |
-| Late August | Admin prep for September | AJ + Michael prepare welcome event + meeting schedule |
+| **August 31** | Team meetings start | Meetings meant to assign competitors content based on their role to familiarize themselves with |
 
 **What you should do:**
 - Study based off of role placement 
-- Check emails/discord for updates from AJ
+- Attend weekly Team Meetings which will begin August 31st
 
 ---
 
@@ -50,12 +48,12 @@
 
 | Date | What | Details |
 |------|------|---------|
-| **Sept 20-26th** | **Intro to CyberForce + CCDC** | Michael, Sam, Tegan talk about CF experience |
-| **Sept 20-26th** | **CyberForce CTF** | CTF themed around cyberforce scenario |
-| Mid-Sept | First team meetings | Teams meet for the first time (in person) |
+| **Sept 23** | **CyberForce Team Kickoff** | Michael, Tegan talk about CF experience during Q&A|
+| **Sept 25** | **Intro to CCDC** | Event to introduce CCDC to CyberForce folks |
+| **Sept 30** | **Intro to CCDC #2** | 
 
 **What you should do:**
-- Attend welcome event 
+- Attend events, CCDC events are optional
 - Show up to team meetings
 - Start engaging with technical prep materials
 - Attend technical events
@@ -66,18 +64,18 @@
 
 | Timing | What | Details |
 |--------|------|---------|
-| Weekly/Bi-weekly | Team meetings | Ongoing prep |
-| Oct 4-10th | **CCDC CTF** | CTF themed around a CCDC scenario |
-| Oct 18th-24th | **Intro to System Hardening** |  A 3 day event where teams come together to get familiar with hardening a system (useful for Phase 2 + Monitoring & Hardening folks) |
+| **Oct 7** | CyberForce CTF | A CTF based off of this years cyberforce scenario |
+| **Oct 14** | CyberForce Role Bootcamp #1 - Green Team | A workshop/event meant to show what green team may look like during competition |
+| **Oct 21** | CyberForce Role Bootcamp #2 - Vulnerability Hunting | A workshop/event meant to show what vulnerability hunting may look like during competition |
 | **Oct 26th** | **Phase 1 Starts: C-Suite Scenario drops** | CyberForce releases scenario, company info, scope |
+| **Oct 28** | CyberForce Role Bootcamp #3 - Monitoring & Hardening | A workshop/event meant to show what vulnerability hunting may look like during competition |
 | Oct 27th, 6 PM CT | CyberForce C-Suite Fireside Chat | CyberForce hosted informational session involving recording/scripting C-Suite | 
-| Oct 25-31st | C-Suite Practice presentations | Teams do mock C-Suite presentations to each other |
 
 
 **What you should do:**
 - Read scenario carefully (understand what you're defending)
 - Work with team on C-Suite briefing
-- Attend practice session
+- Attend events
 - Keep prepping
 
 **What's happening:**
@@ -98,7 +96,7 @@
 | Nov 7th, 10 AM CT | C-Suite Late Submission Deadline | We not doing this pls | 
 | Nov 9th, 10 AM CT | CyberForce Security Documentation due | DEADLINE | 
 | Nov 11th, 10 AM CT | CyberForce Security Documentation Late Deadline | We not doing this pls | 
-| **Nov 13-14th** | **Competition day** | Friday or Saturday | Tinley Park Conventional Center, IL |  
+| **Nov 13-14th** | **Competition day** | Friday or Saturday | Tinley Park Conventional Center, IL | !!!
 
 **What you should do:**
 - SSH into machines, explore + hunt vulnerabilities
@@ -140,13 +138,13 @@
 
 ### **Phase 1: C-Suite Briefing (1 week)**
 **What:** You explain the scenario + response plan in a video  
-**When:** Oct 26th (estimated)  
+**When:** Oct 26th
 **Duration:** 1 week, but CyberForce gives you the scenario  
 **Stress level:** Medium (one deliverable, but you have a week)  
 
 ### **Phase 2: Security Documentation (1 week)**
 **What:** Explore machines, hunt vulnerabilities, document everything, rulebook drops  
-**When:** Nov 2nd (estimated)  
+**When:** Nov 2nd
 **Duration:** 1 week of intense work  
 **Stress level:** High (you're SSH'd in, exploring, on deadline)  
 
@@ -162,8 +160,8 @@
 
 | Phase | Per Week | Total | Notes |
 |-------|----------|-------|-------|
-| **Prep (Sept–Oct)** | ~2 hrs | ~8 weeks | CTFs, meetings, studying |
-| **Crunch (Early Nov)** | 3–5 hrs | 1 week | Intense, but short |
+| **Prep (Sept–Oct)** | ~4 hrs | ~8 weeks | CTFs, meetings, events, studying |
+| **Crunch (Early Nov)** | 4–5 hrs | 1 week | Intense, but short |
 | **Competition Day** | 8 hrs | 1 day | Full day event |
 | **Total** | — | ~40–50 hrs | Over 4 months |
 
@@ -257,7 +255,7 @@
 
 ---
 
-**Last updated:** July 2026  
+**Last updated:** August 2026  
 **Check CyberForce.energy.gov for official dates**
 
 ================================================================================
