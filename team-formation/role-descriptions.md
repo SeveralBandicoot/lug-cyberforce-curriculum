@@ -203,7 +203,6 @@ You figure out the balance based on skills.
 ## 🎓 How to Prepare for Your Role
 
 **If you're Green team:**
-- Take a web development course (Codecademy, FreeCodeCamp, etc.)
 - Learn the framework CyberForce uses (Laravel, Flask, etc.)
 - Practice: set up a test app, intentionally break it, fix it
 - Study OWASP top 10 web vulnerabilities
@@ -262,7 +261,6 @@ You figure out the balance based on skills.
 - Monitoring mentor: Helps set up tools, troubleshoot alerts
 - Captain mentor: Guides communication, team logistics
 
-Mentorship is how knowledge passes to the next generation.
 
 ---
 
@@ -275,7 +273,7 @@ Mentorship is how knowledge passes to the next generation.
 
 ---
 
-**Last updated:** June 2026  
+**Last updated:** August 2026  
 **Questions?** DM @AJ or ask in #cyberforce
 
 ================================================================================
