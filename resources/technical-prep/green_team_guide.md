@@ -2,7 +2,7 @@
 # Green Team Technical Prep
 Web Application Development & Maintenance
 
-**Last updated:** July 2026  
+**Last updated:** August 2026  
 **For:** Green Team role (1 person per CyberForce team)  
 **Time to read:** 30 min
 
@@ -21,7 +21,6 @@ Web Application Development & Maintenance
 
 **Why it matters:**
 - 2024 teams neglected web app → couldn't change website → lost points
-- Web app is easy to underestimate (it's just styling, right?) → WRONG
 - Uptime % is worth significant points
 - Fast response to changes
 
@@ -49,7 +48,7 @@ Before starting this section, you should:
 **CSS** is for styling (how it looks)  
 **NPM** is a package manager (install libraries)
 
-**Important:** Next year (2026) CyberForce (might) use a different framework. You'll need to learn it quickly when scenario drops.
+**Important:** Next year (2026) CyberForce (might) use a different framework. You'll need to learn it quickly when rulebook drops.
 
 ---
 
@@ -193,10 +192,10 @@ Before starting this section, you should:
 
 ---
 
-## 2026 Specific Tasks (When You Get Scenario)
+## 2026 Specific Tasks (When You Get Rulebook)
 
-**First day (scenario release):**
-- [ ] Read scenario carefully
+**First day (rulebook release):**
+- [ ] Read rulebook carefully
 - [ ] Identify website URL (`web:blue0001.cfc.local` or similar)
 - [ ] Get production server access
 - [ ] Deploy initial website
