@@ -5,7 +5,7 @@
 
 For Everyone - Start Here
 
-Last updated: July 2026
+Last updated: August 2026
 
 For: All competitors
 
@@ -129,7 +129,7 @@ Your goal: Defend systems, maintain uptime, find vulnerabilities (anomalies), re
 
 Points are awarded for:
 
-[update scoring here]
+[scoring will be updated once we recieve the rulebook Nov 2]
 - Anomalies/CTF Challenges: ~40% (highest point source)
 - System Uptime: ~20% (keeping systems running)
 - Incident Response: ~10% (detecting/stopping attacks)
@@ -140,14 +140,23 @@ Points are awarded for:
 
 ### Past Competitions (Learn from These)
 
-#### 2024 Anomalies (Windows & Linux versions)
+#### 2024 CyberForce Team Drive
 
 
 https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing
 
-What: Real challenges from 2024 competition (8 GB)
+What: Notes + resources left from 2024 CyberForce team
 
-Why: Best way to understand what anomalies look like + difficulty level
+Why: Take a look at how competitions in the past have been handled, could be useful for this years.
+
+
+#### 2025 CyberForce Team Drive
+
+https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM
+
+What: Notes + resources left from 2025 CyberForce team
+
+Why: Take a look at how competitions in the past have been handled, could be useful for this years.
 
 ---
 
@@ -280,7 +289,7 @@ Extensions: Useful for viewing different file types
 ### Month 1 (September: Foundation)
 
 
- 1. Read CyberForce 101 Library completely
+ 1. Skim CyberForce 101 Library
  2. Understand competition structure (what we explained above)
  3. Join CyberForce listserv
  4. Install VirtualBox + practice OS
