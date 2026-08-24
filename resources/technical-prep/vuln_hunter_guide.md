@@ -2,7 +2,7 @@
 # Hunters Technical Prep
 Vulnerability Finding & Anomaly Solving
 
-**Last updated:** July 2026  
+**Last updated:** August 2026  
 **For:** Vulnerability Hunters (3 people per CyberForce team)  
 **Time to read:** 45 min
 
