@@ -2,7 +2,7 @@
 # Monitoring & Hardening Technical Prep
 Defensive Infrastructure & Security Monitoring
 
-**Last updated:** July 2026  
+**Last updated:** August 2026  
 **For:** Monitoring & Hardening role (2 people per CyberForce team)  
 **Time to read:** 45 min
 
@@ -44,7 +44,7 @@ Before starting this section, you should:
 
 ### **Traditional Infrastructure (Hardened by You)**
 
-Systems you can configure before competition:
+Systems you can configure before competition when phase 2 starts once rulebook+servers are released:
 
 - **Web Server (Linux: OpenSUSE Leap 15)**
   - Services: HTTP (nginx), SSH, NFS
@@ -533,6 +533,5 @@ By October 31, you should be able to:
 
 ---
 
-**You've got this. Strong defense is underrated. Harden well, monitor carefully, and respond fast. Your team will succeed.** 🎯
 
 ================================================================================
