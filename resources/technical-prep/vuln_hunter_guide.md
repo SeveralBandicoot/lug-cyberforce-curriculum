@@ -255,9 +255,9 @@ These are actual exploitable flaws in systems:
 
 ---
 
-## Enumeration Process 
+## Enumeration Process - Starts once we recieve access to the servers+rulebook (Phase 2)
 
-**Phase 1: Reconnaissance (First few hours)**
+**Step 1: Reconnaissance (First few hours)**
 
 Your job: Understand the network completely
 
@@ -287,7 +287,7 @@ Your job: Understand the network completely
 
 ---
 
-**Phase 2: Vulnerability Finding**
+**Step 2: Vulnerability Finding**
 
 Your job: Find exploitable weaknesses
 
@@ -309,7 +309,7 @@ Your job: Find exploitable weaknesses
 
 ---
 
-**Phase 3: Anomaly Solving**
+**Step 3: Anomaly Solving**
 
 Your job: Solve challenges
 
@@ -336,7 +336,7 @@ Your job: Solve challenges
 | **Sept 6–7** | CTF fundamentals + solve 5 anomalies |
 | **Sept 8–9** | Install all anomaly tools |
 | **Oct 1–31** | Solve 10–20 more anomalies |
-| **Nov 1–7** | Scenario release: network enumeration |
+| **Nov 1–7** | Rulebook+server release: network enumeration |
 | **Nov 8–13** | Anomaly solving + vulnerability finding |
 | **Nov 14** | Competition day! |
 
@@ -388,8 +388,6 @@ By October 31, you should be able to:
 - [ ] Write simple Python scripts
 - [ ] Use Ghidra for reverse engineering basics
 - [ ] Document findings clearly
-- [ ] Solve 50%+ of 2024 anomalies
-
 ---
 
 ## If You Get Stuck
