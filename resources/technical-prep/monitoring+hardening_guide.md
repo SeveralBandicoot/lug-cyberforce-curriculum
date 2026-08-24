@@ -36,7 +36,7 @@ Before starting this section, you should:
 - [ ] Willingness to read logs + debug systems
 - [ ] Patience (hardening is tedious + detail-oriented)
 
-**If you don't have these:** Read `/resources/technical-prep/technical-prep.md` fundamentals first.
+**If you don't have these:** Read [`/resources/technical-prep/technical-prep.md`](https://github.com/lugatuic/lug-cyberforce-curriculum/blob/main/resources/technical-prep/technical-prep.md) fundamentals first.
 
 ---
 
