@@ -47,89 +47,87 @@ This curriculum covers CyberForce (primary) and preparation for CCDC (coming soo
 
 ## What's in This Repo?
 
-uic-competitive-security/
-│
-├── README.md (this file)
-├── HANDOFF.md ✅
-├── CONTRIBUTING.md ✅
-│
-├── docs/ ✅
-│   ├── cyberforce101.md ✅
-│   ├── ccdc101.md ✅
-│   ├── event-timeline.md ✅
-│   ├── shared-foundations.md ✅
-│   ├── ccdc-scoring-guide.md ✅
-│   ├── ccdc-roles.md ✅
-│   ├── cyberforce-common-pitfalls.md ✅
-│   ├── ccdc-common-pitfalls.md ✅
-│   ├── official-links.md ✅
-│   └── admin-timeline.md (WIP)
-│
-├── events/
-│   └── fall-2026/
-│       ├── cyberforce-team-kickoff/ ✅
-│       │   └── speaker-notes.md
-│       ├── ccdc101/ ✅
-│       │   └── speaker-notes.md
-│       ├── ccdc-deep-dive/ ✅
-│       │   └── speaker-notes.md
-│       └── cyberforce-ctf/ (⚠️ EMPTY - stub)
-│
-├── competition-prep/
-│   ├── cyberforce/
-│   │   ├── cyberforce-technical-prep.md ✅
-│   │   ├── linux-quickref.md ✅
-│   │   ├── windows-quickref.md ✅
-│   │   ├── open-plc-primer.md ✅
-│   │   ├── tools.md ✅
-│   │   └── role-prep/
-│   │       ├── green_team_guide.md ✅
-│   │       ├── monitoring+hardening_guide.md ✅
-│   │       └── vuln_hunter_guide.md ✅
-│   │
-│   └── ccdc/
-│       ├── README.md ✅
-│       ├── timeline.md (⚠️ WIP - waiting on 2027 packet)
-│       ├── drills/ ✅
-│       │   ├── incident-report-template.md ✅
-│       │   ├── inject-response-template.md ✅
-│       │   └── service-template.md ✅
-│       ├── skill-domains/ ✅
-│       │   ├── active-directory.md ✅
-│       │   ├── linux-sysadmin.md ✅
-│       │   ├── windows-sysadmin.md ✅
-│       │   ├── networking.md ✅
-│       │   ├── cryptography.md ✅
-│       │   ├── legal-frameworks.md ✅
-│       │   ├── buisness-comms.md ✅
-│       │   └── virtualization.md ✅
-│       └── topology/ ✅
-│           ├── 2026-mwccdc-topology.md ✅
-│           ├── palo-alto-primer.md ✅
-│           └── vm-roles.md ✅
-│
-├── team-formation/ ✅
-│   ├── role-descriptions.md ✅
-│   ├── team-balancing-guide.md ✅
-│   └── team-mentor-matching.md ✅
-│
-├── announcements/ ✅
-│   ├── README.md ✅
-│   ├── 2026announcements/ (content)
-│   └── announcement-templates/
-│       ├── announcements_template_kickoff.md ✅
-│       └── announcements_template-registration.md ✅
-│
-├── resources/
-│   └── .gitignore (⚠️ folder mostly empty)
-│
-├── templates/ (⚠️ EMPTY - for copy-paste templates)
-│
-├── leads/ (⚠️ EMPTY - for lead-specific docs)
-│
-├── scorecards-feedback/ (⚠️ EMPTY - fills after competition)
-│
-└── archival/ (⚠️ EMPTY - historical competition materials)
+```
+lug-cyberforce-curriculum/
+  README.md (this file)
+  HANDOFF.md ✅
+  CONTRIBUTING.md ✅
+  
+  docs/ ✅
+    cyberforce101.md ✅
+    ccdc101.md ✅
+    event-timeline.md ✅
+    shared-foundations.md ✅
+    ccdc-scoring-guide.md ✅
+    ccdc-roles.md ✅
+    cyberforce-common-pitfalls.md ✅
+    ccdc-common-pitfalls.md ✅
+    official-links.md ✅
+    admin-timeline.md (WIP)
+  
+  events/
+    fall-2026/
+      cyberforce-team-kickoff/ ✅
+        speaker-notes.md
+      ccdc101/ ✅
+        speaker-notes.md
+      ccdc-deep-dive/ ✅
+        speaker-notes.md
+      cyberforce-ctf/ (⚠️ EMPTY - stub)
+  
+  competition-prep/
+    cyberforce/
+      cyberforce-technical-prep.md ✅
+      linux-quickref.md ✅
+      windows-quickref.md ✅
+      open-plc-primer.md ✅
+      tools.md ✅
+      role-prep/
+        green_team_guide.md ✅
+        monitoring+hardening_guide.md ✅
+        vuln_hunter_guide.md ✅
+    
+    ccdc/
+      README.md ✅
+      timeline.md (⚠️ WIP - waiting on 2027 packet)
+      drills/ ✅
+        incident-report-template.md ✅
+        inject-response-template.md ✅
+        service-template.md ✅
+      skill-domains/ ✅
+        active-directory.md ✅
+        linux-sysadmin.md ✅
+        windows-sysadmin.md ✅
+        networking.md ✅
+        cryptography.md ✅
+        legal-frameworks.md ✅
+        buisness-comms.md ✅
+        virtualization.md ✅
+      topology/ ✅
+        2026-mwccdc-topology.md ✅
+        palo-alto-primer.md ✅
+        vm-roles.md ✅
+  
+  team-formation/ ✅
+    role-descriptions.md ✅
+    team-balancing-guide.md ✅
+    team-mentor-matching.md ✅
+  
+  announcements/ ✅
+    README.md ✅
+    2026announcements/ (content)
+    announcement-templates/
+      announcements_template_kickoff.md ✅
+      announcements_template-registration.md ✅
+  
+  resources/
+    .gitignore (⚠️ folder mostly empty)
+  
+  templates/ (⚠️ EMPTY - for copy-paste templates)
+  leads/ (⚠️ EMPTY - for lead-specific docs)
+  scorecards-feedback/ (⚠️ EMPTY - fills after competition)
+  archival/ (⚠️ EMPTY - historical competition materials)
+```
 
 ---
 
