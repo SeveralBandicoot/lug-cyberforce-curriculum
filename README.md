@@ -1,4 +1,4 @@
-# LUG Competitive Security — Curriculum & Training
+# UIC Competitive Security — Curriculum & Training
 
 **Welcome.** This repo is the single source of truth for UIC LUG's
 competitive security program — covering CyberForce (Fall) and CCDC (Spring).
