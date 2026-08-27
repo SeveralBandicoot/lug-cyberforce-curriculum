@@ -65,8 +65,8 @@ Check Discord for updates from AJ.
 | Sept 9 | GBM — includes CCDC pitch to full group | Both | ✅ |
 | Sept 12–19 | Linux Week — no in-person events | — | ✅ |
 | Sept 22 | **CyberForce Team Kickoff** — roster only, in-person | CyberForce | ✅ |
-| Sept 24 | **CCDC Team Formation #1** — what & why, roster only | CCDC | ✅ |
-| Sept 29 | **CCDC Team Formation #2** — how it works + roster sign-up | CCDC | ✅ |
+| Sept 24 | **CCDC 101** — what & why, roster only | CCDC | ✅ |
+| Sept 29 | **CCDC Deep Dive** — how it works + roster sign-up | CCDC | ✅ |
 
 **CyberForce Team Kickoff (Sept 22):**  
 In-person, CyberForce roster only. Covers: competition refresher, fall
