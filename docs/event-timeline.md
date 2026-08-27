@@ -6,7 +6,7 @@
 
 ---
 
-## 🚨 Important: What's Confirmed vs. Estimated
+## Important: What's Confirmed vs. Estimated
 
 | Status | Meaning |
 |--------|---------|

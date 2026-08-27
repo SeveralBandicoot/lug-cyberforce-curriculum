@@ -4,6 +4,8 @@
 competitive security program — covering CyberForce (Fall) and CCDC (Spring).
 Whether you're competing, running events, or taking over next year — start here.
 
+This curriculum covers CyberForce (primary) and preparation for CCDC (coming soon).
+
 ---
 
 ## Quick Links (Start Here!)
@@ -14,7 +16,7 @@ Whether you're competing, running events, or taking over next year — start her
 - [Official CyberForce 101 Library](https://cyberforce.energy.gov/cyberforce-101-library/) — read this
 - [CyberForce 2025 Resources](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing) — what last year's team faced
 - [Team Structure & Roles](team-formation/role-descriptions.md) — Green, Vuln Hunters, Monitors
-- [Technical Prep Guide](resources/technical-prep.md) — Linux, Windows, Open PLC, PHP, networking
+- [Technical Prep Guide](resources/technical-prep/technical-prep.md) — Linux, Windows, Open PLC, PHP, networking
 
 ### For CCDC Competitors
 - [What is CCDC?](docs/ccdc101.md) — overview & competition structure
