@@ -17,10 +17,10 @@ Congratulations! You've inherited a curriculum, a community, and a competition t
 ## READ THESE FIRST (In This Order)
 
 1. **This document** (you're reading it) — timeline & overview
-2. [Common Pitfalls](docs/common-pitfalls.md) — what we learned (and what broke)
-3. [Admin Timeline](admin/timeline-internal.md) — your deadlines, by month
-4. [Admin Meeting Notes](admin/admin-meeting-notes.md) — decisions we made & why
-5. [2025 Competition Summary](archival/2025-competition-summary.md) — what happened last year
+2. [CyberForce Common Pitfalls](docs/cyberforce-common-pitfalls.md) — what we learned (and what broke)
+3. [CCDC Common Pitfalls](docs/ccdc-common-pitfalls.md) — CCDC-specific lessons
+4. [Admin Timeline](docs/admin-timeline.md) — your deadlines, by month
+4. [Event Information](docs/event-timeline.md) — decisions we made & why
 
 ---
 
@@ -325,7 +325,7 @@ You are **not** responsible for:
 
 - [Announcements](announcements/) — copy + adapt
 - [Event agendas](events/) — use as starting point
-- [Meeting notes](admin/admin-meeting-notes.md) — same format
+- [Meeting notes](docs/admin-timeline.md) — same format
 - [Skill assessment form](templates/skill-assessment-template.md) — use for info session
 - [Team roster](templates/team-roster-template.md) — copy for your teams
 

@@ -115,7 +115,7 @@ Learning from mistakes is how we improve. This document captures what broke in 2
 **For admins:**
 - ✅ Debrief within 1 week of competition (memory is fresh)
 - ✅ Save all scorecards + feedback
-- ✅ Update [common-pitfalls.md](common-pitfalls.md) right away
+- ✅ Update [cyberforce-common-pitfalls.md](cyberforce-common-pitfalls.md) right away
 - ✅ Write summary doc for next year
 - ✅ Interview veterans about what they learned (capture this before they forget)
 

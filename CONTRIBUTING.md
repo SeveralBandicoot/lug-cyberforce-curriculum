@@ -187,7 +187,7 @@ The C-Suite briefing is a recorded video presentation where your team explains t
 
 **Within repo:**
 ```markdown
-[CyberForce 101](docs/cyberforce-101.md)
+[CyberForce 101](docs/cyberforce101.md)
 [Team Structure](team-formation/role-descriptions.md)
 ```
 

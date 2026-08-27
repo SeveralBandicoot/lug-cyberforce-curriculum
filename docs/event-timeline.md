@@ -71,14 +71,14 @@ Check Discord for updates from AJ.
 **CyberForce Team Kickoff (Sept 22):**  
 In-person, CyberForce roster only. Covers: competition refresher, fall
 timeline, team roles, expectations, brief CCDC intro, veteran Q&A.
-See [events/cyberforce-kickoff/speaker-notes.md](../events/cyberforce-kickoff/speaker-notes.md).
+See [events/fall-2026/cyberforce-team-kickoff/speaker-notes.md](../events/fall-2026/cyberforce-team-kickoff/speaker-notes.md).
 
-**CCDC Formation Sessions (Sept 24 + Sept 29):**  
-In-person, CyberForce roster only. Session 1 is the what and why — what
-CCDC is, how it differs from CyberForce, the full season structure. Session 2
-is the how — platform mechanics, scoring deep dive, roles, and the actual
-roster sign-up. See [events/ccdc-formation-1/](../events/ccdc-formation-1/)
-and [events/ccdc-formation-2/](../events/ccdc-formation-2/).
+**CCDC 101 & CCDC Deep Dive Sessions (Sept 24 + Sept 29):**  
+In-person, CyberForce roster only. CCDC 101 (Sept 24) is the what and why — what
+CCDC is, how it differs from CyberForce, the full season structure. CCDC Deep Dive
+(Sept 29) is the how — platform mechanics, scoring deep dive, roles, and the actual
+roster sign-up. See [events/fall-2026/ccdc101/](../events/fall-2026/ccdc101/)
+and [events/fall-2026/ccdc-deep-dive/](../events/fall-2026/ccdc-deep-dive/).
 
 ---
 
@@ -97,8 +97,9 @@ and [events/ccdc-formation-2/](../events/ccdc-formation-2/).
 | Oct 21 | **Role Bootcamp Day 2** — Vulnerability Hunting | CyberForce | ✅ |
 | Oct 23 | **Role Bootcamp Day 3** — Monitoring & Hardening | CyberForce | ✅ |
 | Oct 25 | MWCCDC Invitational option (est.) | CCDC | 📅 |
-| Oct 26, 6pm CT | **CyberForce phase 1 begins** | CyberForce | ✅ |
+| Oct 26 - Nov 2, 6pm CT | **CyberForce Phase 1** — C-Suite material released | CyberForce | ✅ |
 | Oct 29 | Hack-o-ween CTF — WiCyS collab (est.) | CTF Group | 📅 |
+| Nov 2 - Nov 9, 6pm CT | **CyberForce Phase 2** — rulebook & servers go online | CyberForce | ✅ |
 
 **CyberForce CTF (Oct 7):**  
 A mini Capture the Flame event compiled by CTF Group's dev team. Theming TBD.
@@ -115,10 +116,10 @@ qualification. Treat this as a mandatory dress rehearsal even though it
 is technically optional. Awaiting confirmation from Kevin Vaccaro on exact
 dates and remote participation rules.
 
-**CyberForce Contract Period (Oct 26 → Nov 14):**  
-✅ Confirmed from the 2026 Contractor Activation Guide. This is when you
-have SSH access to competition infrastructure. Three weeks of hardening,
-documentation, and C-Suite video work. Budget 3–5 hours per week.
+**CyberForce Contract Period (Oct 26 → Nov 9):**  
+✅ Confirmed from the 2026 Contractor Activation Guide. This spans two phases:
+- **Phase 1 (Oct 26 – Nov 2):** C-Suite material released. Review scenario and start initial planning. Budget 3–5 hours per week.
+- **Phase 2 (Nov 2 – Nov 9):** Rulebook and servers go online for hands-on hardening and configuration work. Intensive preparation phase.
 
 ---
 
@@ -127,7 +128,9 @@ documentation, and C-Suite video work. Budget 3–5 hours per week.
 | Date | What | Competition | Status |
 |------|------|-------------|--------|
 | Nov 1 | MWCCDC Invitational option (est.) | CCDC | 📅 |
+| Nov 2, 6pm CT | CyberForce Phase 2 begins (from Phase 1) | CyberForce | ✅ |
 | Nov or Spring Sem. | **CCDC post-Invitational debrief** | CCDC | 📅 |
+| Nov 9, 6pm CT | CyberForce Phase 2 ends | CyberForce | ✅ |
 | Nov 13–14 | **CyberForce Competition** | CyberForce | ✅ |
 | Nov 14, 6pm CT | CyberForce contract period ends | CyberForce | ✅ |
 
@@ -153,7 +156,8 @@ What to bring: laptop, charger, ID, snacks. Transportation arranged by LUG.
 **What's happening technically during the contract period:**  
 C-Suite briefing video due approximately one week after scenario drop
 (est. early Nov). Security documentation due approximately one week before
-competition. See [competition-prep/cyberforce/week-by-week.md](../competition-prep/cyberforce/week-by-week.md)
+competition. This is where roles train on CyberForce-specific tactics for this year's scenario. 
+Dates TBD pending official announcement from cyberforce.energy.gov.
 for the detailed week-by-week breakdown.
 
 ---

@@ -250,4 +250,4 @@ it") keeps the team oriented.
 - [ccdc101.md](../../docs/ccdc101.md) — full CCDC overview
 - [inject-response-template.md](../drills/inject-response-template.md)
 - [service-checklist.md](../drills/service-checklist.md)
-- [shared-foundations.md](../../docs/shared-foundations.md)p
+- [shared-foundations.md](../../docs/shared-foundations.md)

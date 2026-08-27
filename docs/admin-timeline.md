@@ -200,8 +200,8 @@ Phase 2 - Competition
 - [ ] Update repo with 2026 lessons
 
 **Late December:**
-- [ ] Write/update [common-pitfalls.md](../docs/common-pitfalls.md) with 2026 learnings
-- [ ] Write [2026-competition-summary.md](../archival/2026-competition-summary.md)
+- [ ] Write/update [cyberforce-common-pitfalls.md](cyberforce-common-pitfalls.md) with 2026 learnings
+- [ ] Archive 2026 competition materials in [archival/](../archival/)
 - [ ] Interview Michael + veterans for red team insights
 - [ ] Update [HANDOFF.md](../HANDOFF.md) with new intel for next year's lead
 - [ ] Plan: "Who's staying in leadership? Who's leaving?"

@@ -16,7 +16,7 @@ This curriculum covers CyberForce (primary) and preparation for CCDC (coming soo
 - [Official CyberForce 101 Library](https://cyberforce.energy.gov/cyberforce-101-library/) — read this
 - [CyberForce 2025 Resources](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing) — what last year's team faced
 - [Team Structure & Roles](team-formation/role-descriptions.md) — Green, Vuln Hunters, Monitors
-- [Technical Prep Guide](resources/technical-prep/technical-prep.md) — Linux, Windows, Open PLC, PHP, networking
+- [Technical Prep Guide](competition-prep/cyberforce/cyberforce-technical-prep.md) — Linux, Windows, Open PLC, PHP, networking
 
 ### For CCDC Competitors
 - [What is CCDC?](docs/ccdc101.md) — overview & competition structure
@@ -26,17 +26,17 @@ This curriculum covers CyberForce (primary) and preparation for CCDC (coming soo
 - [Common Pitfalls](docs/ccdc-common-pitfalls.md) — what consistently costs teams points
 
 ### For Event Leaders
-- [CyberForce Team Kickoff](events/cyberforce-kickoff/speaker-notes.md) — Sept 22 playbook
-- [CCDC Formation Session 1](events/ccdc-formation-1/speaker-notes.md) — Sept 24: what & why
-- [CCDC Formation Session 2](events/ccdc-formation-2/speaker-notes.md) — Sept 29: how it works + roster sign-up
+- [CyberForce Team Kickoff](events/fall-2026/cyberforce-team-kickoff/speaker-notes.md) — Sept 22 playbook
+- [CCDC 101](events/fall-2026/ccdc101/speaker-notes.md) — Sept 24: what & why
+- [CCDC Deep Dive](events/fall-2026/ccdc-deep-dive/speaker-notes.md) — Sept 29: how it works + roster sign-up
 - [C-Suite Briefing Prep Guide](events/c-suite-prep/2026/prep-notes.md) — practice sessions, recording tips
 - [Welcome Event Playbook](events/welcome-event/) — agenda, talking points, veteran scripts
 
 ### For Admins / Next Year's Leads
 - [Handoff Guide](HANDOFF.md) — **read this first** if you're taking over
-- [Admin Meeting Notes](admin/admin-meeting-notes.md) — decisions made, timeline
-- [Timeline for Admins](admin/timeline-internal.md) — deadlines, checkpoints
-- [CyberForce Common Pitfalls](docs/common-pitfalls.md) — what went wrong + how to fix
+- [Admin Meeting Notes](docs/admin-timeline.md) — decisions made, timeline
+- [CyberForce Common Pitfalls](docs/cyberforce-common-pitfalls.md) — what went wrong + how to fix
+- [CCDC Common Pitfalls](docs/ccdc-common-pitfalls.md) — what went wrong in CCDC
 
 ### For Alumni / Mentors
 - [Mentoring Guide](team-formation/team-mentor-matching.md) — how to help a team
@@ -47,20 +47,89 @@ This curriculum covers CyberForce (primary) and preparation for CCDC (coming soo
 
 ## What's in This Repo?
 
-```
-/docs/                 → General knowledge (what is CF, what is CCDC, scoring, roles)
-/resources/            → Learning materials (Linux, Windows, Open PLC, tools)
-/events/               → Event playbooks (kickoff, formation sessions, C-Suite, etc.)
-/team-formation/       → Team building (roles, balancing, mentors)
-/competition-prep/
-  /cyberforce/         → Week-by-week CyberForce curriculum (Sept–Nov)
-  /ccdc/               → CCDC curriculum, drills, topology, skill domains
-/announcements/        → Discord & email templates
-/scorecards-feedback/  → Past competition results & lessons learned
-/archival/             → Anomaly solutions, team reports, veteran knowledge
-/admin/                → Internal notes, budget, contacts
-/templates/            → Copy-paste templates for future years
-```
+uic-competitive-security/
+│
+├── README.md (this file)
+├── HANDOFF.md ✅
+├── CONTRIBUTING.md ✅
+│
+├── docs/ ✅
+│   ├── cyberforce101.md ✅
+│   ├── ccdc101.md ✅
+│   ├── event-timeline.md ✅
+│   ├── shared-foundations.md ✅
+│   ├── ccdc-scoring-guide.md ✅
+│   ├── ccdc-roles.md ✅
+│   ├── cyberforce-common-pitfalls.md ✅
+│   ├── ccdc-common-pitfalls.md ✅
+│   ├── official-links.md ✅
+│   └── admin-timeline.md (WIP)
+│
+├── events/
+│   └── fall-2026/
+│       ├── cyberforce-team-kickoff/ ✅
+│       │   └── speaker-notes.md
+│       ├── ccdc101/ ✅
+│       │   └── speaker-notes.md
+│       ├── ccdc-deep-dive/ ✅
+│       │   └── speaker-notes.md
+│       └── cyberforce-ctf/ (⚠️ EMPTY - stub)
+│
+├── competition-prep/
+│   ├── cyberforce/
+│   │   ├── cyberforce-technical-prep.md ✅
+│   │   ├── linux-quickref.md ✅
+│   │   ├── windows-quickref.md ✅
+│   │   ├── open-plc-primer.md ✅
+│   │   ├── tools.md ✅
+│   │   └── role-prep/
+│   │       ├── green_team_guide.md ✅
+│   │       ├── monitoring+hardening_guide.md ✅
+│   │       └── vuln_hunter_guide.md ✅
+│   │
+│   └── ccdc/
+│       ├── README.md ✅
+│       ├── timeline.md (⚠️ WIP - waiting on 2027 packet)
+│       ├── drills/ ✅
+│       │   ├── incident-report-template.md ✅
+│       │   ├── inject-response-template.md ✅
+│       │   └── service-template.md ✅
+│       ├── skill-domains/ ✅
+│       │   ├── active-directory.md ✅
+│       │   ├── linux-sysadmin.md ✅
+│       │   ├── windows-sysadmin.md ✅
+│       │   ├── networking.md ✅
+│       │   ├── cryptography.md ✅
+│       │   ├── legal-frameworks.md ✅
+│       │   ├── buisness-comms.md ✅
+│       │   └── virtualization.md ✅
+│       └── topology/ ✅
+│           ├── 2026-mwccdc-topology.md ✅
+│           ├── palo-alto-primer.md ✅
+│           └── vm-roles.md ✅
+│
+├── team-formation/ ✅
+│   ├── role-descriptions.md ✅
+│   ├── team-balancing-guide.md ✅
+│   └── team-mentor-matching.md ✅
+│
+├── announcements/ ✅
+│   ├── README.md ✅
+│   ├── 2026announcements/ (content)
+│   └── announcement-templates/
+│       ├── announcements_template_kickoff.md ✅
+│       └── announcements_template-registration.md ✅
+│
+├── resources/
+│   └── .gitignore (⚠️ folder mostly empty)
+│
+├── templates/ (⚠️ EMPTY - for copy-paste templates)
+│
+├── leads/ (⚠️ EMPTY - for lead-specific docs)
+│
+├── scorecards-feedback/ (⚠️ EMPTY - fills after competition)
+│
+└── archival/ (⚠️ EMPTY - historical competition materials)
 
 ---
 
@@ -70,7 +139,7 @@ This curriculum covers CyberForce (primary) and preparation for CCDC (coming soo
 1. Read [CyberForce 101](docs/cyberforce101.md)
 2. Check [Competition Timeline](docs/event-timeline.md)
 3. Study [CyberForce 2025 Team's Google Drive](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing)
-4. Explore [Technical Prep](resources/technical-prep.md) based on your role
+4. Explore [Technical Prep](competition-prep/cyberforce/cyberforce-technical-prep.md) based on your role
 5. Attend workshops and events listed in the calendar
 
 **If you're a CCDC competitor:**
@@ -78,7 +147,7 @@ This curriculum covers CyberForce (primary) and preparation for CCDC (coming soo
 2. Read [Shared Foundations](docs/shared-foundations.md) — know your gaps coming from CyberForce
 3. Read [Team Roles](docs/ccdc-roles.md) — know your role before the Invitational
 4. Read [Scoring Guide](docs/ccdc-scoring-guide.md) — understand what the points actually come from
-5. Attend CCDC Formation sessions (Sept 24 and Sept 29)
+5. Attend CCDC 101 and CCDC Deep Dive sessions (Sept 24 and Sept 29)
 
 **If you're running an event:**
 1. Go to `/events/[event-name]/`
@@ -89,9 +158,9 @@ This curriculum covers CyberForce (primary) and preparation for CCDC (coming soo
 
 **If you're taking over next year:**
 1. **Read [HANDOFF.md](HANDOFF.md) first**
-2. Check [Timeline for Admins](admin/timeline-internal.md)
-3. Review [CyberForce Common Pitfalls](docs/common-pitfalls.md) and [CCDC Common Pitfalls](docs/ccdc-common-pitfalls.md)
-4. Skim [Admin Meeting Notes](admin/admin-meeting-notes.md)
+2. Check [Event Timeline](docs/event-timeline.md) for key deadlines
+3. Review [CyberForce Common Pitfalls](docs/cyberforce-common-pitfalls.md) and [CCDC Common Pitfalls](docs/ccdc-common-pitfalls.md)
+4. Skim [Admin Timeline Notes](docs/admin-timeline.md)
 5. Check GitHub Issues for unfinished work
 6. Ask the previous leads questions before they graduate
 
@@ -105,8 +174,8 @@ This curriculum covers CyberForce (primary) and preparation for CCDC (coming soo
 |------|------|-------------|
 | Sept 9 | GBM — CCDC pitch | Both |
 | Sept 22 | CyberForce Team Kickoff | CyberForce |
-| Sept 24 | CCDC Formation #1 — what & why | CCDC |
-| Sept 29 | CCDC Formation #2 — how it works + roster sign-up | CCDC |
+| Sept 24 | CCDC 101 — what & why | CCDC |
+| Sept 29 | CCDC Deep Dive — how it works + roster sign-up | CCDC |
 | Oct 1 | CCDC national registration window opens | CCDC |
 | Oct 7 | CyberForce CTF | CyberForce |
 | Oct 18/25/Nov 1 | MWCCDC Invitationals (est.) | CCDC |
@@ -152,7 +221,7 @@ This curriculum covers CyberForce (primary) and preparation for CCDC (coming soo
 → Read [CCDC 101](docs/ccdc101.md) or DM @AJ
 
 **Technical questions?**
-→ Check [Technical Prep](resources/technical-prep.md)
+→ Check [Technical Prep](competition-prep/cyberforce/cyberforce-technical-prep.md)
 
 **Role or team questions?**
 → Check [CyberForce Roles](team-formation/role-descriptions.md) or [CCDC Roles](docs/ccdc-roles.md)
