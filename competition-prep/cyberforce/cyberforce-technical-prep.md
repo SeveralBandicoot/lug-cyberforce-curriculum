@@ -348,7 +348,7 @@ Extensions: Useful for viewing different file types
  4. Install VirtualBox + practice setting up a Linux VM
  5. Install Git + Python
  6. Read your role-specific resources
-     - [Green Team Guide](green_team_guide.md)
+     - [Green Team Guide](competition-prep/cyberforce/role-prep/green_team_guide.md)
      - [Vulnerability Hunter Guide](vuln_hunter_guide.md)
      - [Monitoring & Hardening Guide](monitoring+hardening_guide.md)
 
